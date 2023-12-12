@@ -1,3 +1,3 @@
 # Game
 
-Please include an commit mesaage in your push
+Please include an commit message in your push
